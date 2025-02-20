@@ -1,0 +1,18 @@
+{
+    "emotion_thresholds": {
+        "happy": 0.3,
+        "sad": -0.3,
+        "angry": -0.5,
+        "neutral": 0.1,
+        "excited": 0.5,
+        "worried": -0.2
+    },
+    "voice_modulation": {
+        "happy": {"pitch": 1.2, "speed": 1.1},
+        "sad": {"pitch": 0.9, "speed": 0.9},
+        "angry": {"pitch": 1.3, "speed": 1.2},
+        "neutral": {"pitch": 1.0, "speed": 1.0},
+        "excited": {"pitch": 1.4, "speed": 1.2},
+        "worried": {"pitch": 0.95, "speed": 0.95}
+    }
+}
